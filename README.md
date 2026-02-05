@@ -1,4 +1,5 @@
 ## Hi there 👋😗
+I'm Blake, an international transfer student at Oregon State University.
 
 <!--
 **B74k3/B74k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
